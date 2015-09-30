@@ -14,7 +14,7 @@ Steps:
 
 3. Inject SVG
 
-  var mySVGsToInject = document.querySelectorAll('img.svg');
+  var mySVGsToInject = document.querySelectorAll('img.svg'); <br />
   SVGInjector(mySVGsToInject);
   
 4. SVG markup will now be inline in the HTML
