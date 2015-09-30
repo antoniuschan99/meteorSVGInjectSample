@@ -10,7 +10,7 @@ Steps:
   
 2. Add an SVG image
 
-  eg. img src="kiwi.svg" class="svg" /
+  eg. <img src="kiwi.svg" class="svg" /
 
 3. Inject SVG
 
