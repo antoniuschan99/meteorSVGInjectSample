@@ -1,6 +1,6 @@
 # meteorSVGInjectSample
 
-# This application uses the Iconic SVGInjector to load an SVG file and replaces it with the full SVG markup inline.
+This application uses the Iconic SVGInjector to load an SVG file and replaces it with the full SVG markup inline.
 
 Steps:
 
@@ -10,7 +10,7 @@ Steps:
   
 2. Add an SVG image
 
-  eg. '<img src="kiwi.svg" class="svg" />'
+  eg. img src="kiwi.svg" class="svg" /
 
 3. Inject SVG
 
